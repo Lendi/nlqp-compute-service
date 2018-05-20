@@ -1,8 +1,7 @@
 # SearchUI
 
-Requirements:
-- angular-cli
-`npm install @angular/cli`
+Initial setup:
+- cd to SearchUI and do `npm install`
 
 Build and serve:
 - ng build
