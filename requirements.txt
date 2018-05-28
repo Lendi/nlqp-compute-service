@@ -1,6 +1,8 @@
 aniso8601==3.0.0
 click==6.7
+enum34==1.1.6
 Flask==1.0.2
+Flask-Cors==3.0.4
 flask-restplus==0.11.0
 functools32==3.2.3.post2
 itsdangerous==0.24

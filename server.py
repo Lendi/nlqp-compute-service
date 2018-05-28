@@ -15,7 +15,7 @@ class Home(Resource):
 @api.route('/api/v1/query/<string:query>')
 class QueryResource(Resource):
 	def get(self, query):
-		return{'query':query}
+		return {'query':query}
 
 
 
